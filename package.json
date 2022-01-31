@@ -1,9 +1,9 @@
 {
-  "name": "doska",
+  "name": "hellotrello",
   "version": "1.1.0",
   "repository": {
     "type": "git",
-    "url": "https://tvoykofe.netlify.app/"
+    "url": "https://github.com/philhawksworth/hello-trello"
   },
   "scripts": {
     "build": "eleventy",
