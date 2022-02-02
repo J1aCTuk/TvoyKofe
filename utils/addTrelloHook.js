@@ -1,9 +1,9 @@
 // Get any environment variables we need
 require('dotenv').config();
 const {
-  TRELLO_LIST_ID,
-  TRELLO_TOKEN,
-  TRELLO_KEY,
+  TRELLO_LIST_ID='61f27ad4f8622f6e41656b05',
+  TRELLO_TOKEN='66c4ca38c1dc7c18c3ee626005a853a81f510577a45dea946cdcb8e95a1e37bf',
+  TRELLO_KEY='cfb4699eb3b9a314f6025d00892cfad1',
   npm_config_url } = process.env;
 
 const fetch = require('node-fetch');
